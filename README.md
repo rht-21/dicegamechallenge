@@ -4,4 +4,4 @@ A very basic game just for fun and practice.
 <br>
 Learning JS 🥰
 
-<a href="https://rht-21.github.io/dicegamechallenge"><img src="https://img.shields.io/badge/-Play-orange" height = 40px width = 80px alt="Play"></a>
+<a href="https://rht-21.github.io/dicegamechallenge"><img src="https://img.shields.io/badge/-Play-orange" height = 5% width = 5%  alt="Play"></a>
